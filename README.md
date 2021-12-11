@@ -1,7 +1,7 @@
 # Menu_Dashboard
 
 ## MVP, Goal and Purpose
-The motivation for my capstone in creating a dashboard for  to have real time data for operators on which areas are driving their cost per meal (CPM= how much it costs in food per customer).  
+The motivation for my capstone is to create a dashboard to have real time data for operators on which areas are driving their cost per meal (CPM= how much it costs in food per customer).  
 -	Data Question- How can we get NetMenu data to be displayed with visuals and have it updated with Meal Plan reports coming out of Gold daily?
 -	Data to be Used- we will use the menu export from NetMenu, the daily swipe reports out of Gold, as well as operator generated forecasted numbers
 
@@ -19,13 +19,13 @@ The minimum viable product will be a PowerBI dashboard that updates when new inf
 
 ## Technologies & Workflow
 1.  **Outlook** receives email system generated process that runs at end of daily
-2.  **Power Automate** scrapes the CSV from the email and moves it to a Ondrive folder
+2.  **Power Automate** scrapes the CSV from the email and moves it to a Onedrive folder
 3.  **Python**
-      - reads in the entire folder using the `os` and `glob` libraries to continually concatenate the files as the get added to the folder   
+      - reads in the entire folder using the `os` and `glob` libraries to continually concatenate the files as they get added to the folder   
       - cleans the files so they can be displayed for analysis and then exports one concise excel file to be picked up by PowerBI
       - this is run using the `time` and `schedule` libraries for automation
-4.  **PowerBI** desktop houses the cleaned data and manages the relationships as well as pulls in hardcoded data with forecasting information.
-        -DAX functions are used to create KPI's on the dashboard and those are housed on their own tables(2)
+4.  **PowerBI** desktop houses the cleaned data and manages the data relationships as well as pulls in hardcoded data with forecasting information.
+        - DAX functions are used to create KPI's on the dashboard and those are housed on their own tables(2)
 5.  **On Premises Gateway** connects the web based PowerBI with local folders so that the above processes flow through to the front end users
 
 ## Definitions
