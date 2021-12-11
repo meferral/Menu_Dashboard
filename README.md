@@ -13,6 +13,14 @@ The real motivation for this lies in operators being able to go to a central spo
 
 KPI’s that will be focused on the dashboard will be CPM and food waste.
 
+<<<<<<< HEAD
 How can we look at in real time what our CPM is and what is driving that cost?
 
 How can we make better decisions about our menu mix that touch on the areas that we deem important (socially responsible menuing) and still keep costs in line?
+=======
+How can we look at in real time what our CPM is and what is driving that cost? 
+
+How can we make better decisions about our menu mix that touch on the areas that we deem important (socially responsible menuing) and still keep costs in line?
+
+
+>>>>>>> c713d651cb8fa5f908ff1dc32e95d6bb18d36583
