@@ -25,7 +25,7 @@ The minimum viable product will be a PowerBI dashboard that updates when new inf
       - cleans the files so they can be displayed for analysis and then exports one concise excel file to be picked up by PowerBI
       - this is run using the `time` and `schedule` libraries for automation
 4.  **PowerBI** desktop houses the cleaned data and manages the data relationships as well as pulls in hardcoded data with forecasting information.
-        - DAX functions are used to create KPI's on the dashboard and those are housed on their own tables(2)
+      - DAX functions are used to create KPI's on the dashboard and those are housed on their own tables(2)
 5.  **On Premises Gateway** connects the web based PowerBI with local folders so that the above processes flow through to the front end users
 
 ## Definitions
