@@ -1,9 +1,4 @@
 # Menu_Dashboard
-## Table of contents
-* [MVP, Goal and Purpose] (#mvp-goal-and-purpose)
-* [Technologies & Workflow] (#technologies-&-workflow)
-* [Definitions] (#definitions)
-
 
 ## MVP, Goal and Purpose
 The motivation for my capstone in creating a dashboard for  to have real time data for operators on which areas are driving their cost per meal (CPM= how much it costs in food per customer).  
