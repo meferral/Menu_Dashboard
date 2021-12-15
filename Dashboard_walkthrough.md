@@ -1,4 +1,4 @@
-Starting with top left slicer panel
+Slicer Panel
 ===================================
 
 -   Date Slicer narrows down all available dates
