@@ -37,7 +37,7 @@ The minimum viable product will be a PowerBI dashboard that updates when new inf
 - **Served Amount/Cost**- the food that was served from the prepared
 - **Leftover Amount/Cost**- the difference of the prepared and served cost/amount
 
-
+PowerBI link to dashboard:  https://app.powerbi.com/links/pIkHS6IC4-?ctid=ba5a7f39-e3be-4ab3-b450-67fa80faecad&pbi_source=linkShare&bookmarkGuid=597196a1-1986-407b-b317-9985cb73dcb6
 
 
 >>>>>>> c713d651cb8fa5f908ff1dc32e95d6bb18d36583
