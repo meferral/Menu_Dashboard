@@ -60,3 +60,16 @@ Cards
     metric
 -   Leftovers as a % of prepared is the leftover cost divided by the
     prepared cost
+
+Pain Points- the foodservice business moves so fast, and in large scale dining
+operations the business is so nuanced, that there is often a lack of follow up
+with available information.  The real goal of this dashboard is to be a
+frequently visited page by the operators where they can adjust their
+production.  In my time at Vanderbilt I was on the team that led the
+implementation of this Menu Management software and the lack of meaningful
+feedback it was able to give to our operators was always in the back of my
+mind.  In NSS I often thought about how I could use all of the things I was
+learning to better the processes we already had and saw this as low hanging
+fruit that could serve an immediate impact, especially as those operators
+navigate unknown forecasting, and unknown menu items as a result of the
+pandemic/product shortages etc.
